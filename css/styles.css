@@ -28,8 +28,8 @@ img {
 }
 
 .header{
-    padding-top: 24;
-    padding-bottom: 24;
+    padding-top: 24px;
+    padding-bottom: 24px;
     margin: 0 auto;
     border-bottom: 1px solid #e7e9fc;
 }
@@ -186,14 +186,12 @@ img {
 }
 
 .solutions-list {
-    padding-left: 156px;
-    padding-right: 156px;
     display: flex;
     gap: 24px;
 }
 
 .solutions-item {
-    width: calc((100% - 24 * 3) / 4);
+    width: calc((100% - 72px) / 4);
 }
 
 .solutions-subtitle {
