@@ -37,13 +37,12 @@ img {
 .header-menu {
     display: flex;
     align-items: center;
-    gap: 40px;
     padding: 24px 0;
+    gap: 40px;
 }
 
 .header-menu-item{
     display: block;
-    padding: 24px 0;
 }
 
 .header-logo {
@@ -194,7 +193,7 @@ img {
 }
 
 .solutions-item {
-    width: calc((100% - 72px) / 4);
+    width: calc((100% - 24 * 3) / 4);
 }
 
 .solutions-subtitle {
