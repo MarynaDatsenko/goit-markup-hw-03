@@ -276,6 +276,7 @@ img {
 
 .portfolio-item {
     width: calc((100% - 24 * 2) / 3);
+    padding: 32px 0;
 }
 
 .portfolio-title {
@@ -293,10 +294,6 @@ img {
     width="360"
     margin-bottom: 32px;
 
-}
-
-.portfolio-item{
-    padding: 32px 0;
 }
 
 .portfolio-subtitle {
